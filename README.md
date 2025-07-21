@@ -10,8 +10,10 @@ https://discord.com/oauth2/authorize?client_id=1396545731661139979&permissions=1
 ```text
 Usuario: !chiste
 Bot:    [responde con un chiste y una imagen]
+
+Para intalar el environment
 python -m venv env
-.\env\Scripts\activate
+.\pypro\Scripts\activate
 
 pip install -r requirements.txt
 
