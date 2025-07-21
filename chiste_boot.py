@@ -33,5 +33,5 @@ async def enviar_chiste(ctx):
     embed.set_image(url=chiste["imagen"])
     await ctx.send(embed=embed)
 
-# Reemplaza este token con el tuyo
-bot.run('MTM5NjU0NTczMTY2MTEzOTk3OQ.GuL3S3.R0s4XYaJvUECWKJzjowxzPBBbLeVupSFMeWtNo')
+
+bot.run('')
